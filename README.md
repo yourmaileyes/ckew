@@ -1,5 +1,10 @@
 # ckew
 计算机基础知识在线测评系统
+联系我：ccnoobs@sina.com
+<br>
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+<br>
 使用方法
 更改applicationContext.xml中的数据库链接的属性
 sql数据库编码为utf-8

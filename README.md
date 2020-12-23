@@ -2,7 +2,7 @@
 计算机基础知识在线测评系统
 联系我：ccnoobs@sina.com
 <br>
-演示地址：http://49.235.80.156:8080/ckew
+演示地址：http://depository.ccnoobs.top/ckew/
 <br>
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
